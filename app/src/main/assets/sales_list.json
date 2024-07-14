@@ -1,0 +1,68 @@
+[
+  {
+    "salesListId": 1,
+    "salesListName": "Sales List 1",
+    "details": [
+      {
+        "goodsId": 1,
+        "goodsName": "Product 1",
+        "price": 100,
+        "description": "Description 1",
+        "taxType": "INCLUSIVE",
+        "taxRate": 10.0,
+        "imageUrl": "https://www.example.com/image1.jpg"
+      },
+      {
+        "goodsId": 2,
+        "goodsName": "Product 2",
+        "price": 200,
+        "description": "Description 2",
+        "taxType": "EXCLUSIVE",
+        "taxRate": 10.0,
+        "imageUrl": "https://www.example.com/image2.jpg"
+      },
+      {
+        "goodsId": 3,
+        "goodsName": "Product 3",
+        "price": 300,
+        "description": "Description 3",
+        "taxType": "EXCLUSIVE",
+        "taxRate": 10.0,
+        "imageUrl": "https://www.example.com/image3.jpg"
+      },
+      {
+        "goodsId": 4,
+        "goodsName": "Product 4",
+        "price": 400,
+        "description": "Description 4",
+        "taxType": "EXCLUSIVE",
+        "taxRate": 10.0,
+        "imageUrl": "https://www.example.com/image4.jpg"
+      },
+      {
+        "goodsId": 5,
+        "goodsName": "Product 5",
+        "price": 500,
+        "description": "Description 5",
+        "taxType": "INCLUSIVE",
+        "taxRate": 0.8,
+        "imageUrl": "https://www.example.com/image5.jpg"
+      }
+    ]
+  },
+  {
+    "salesListId": 2,
+    "salesListName": "Sales List 2",
+    "details": [
+      {
+        "goodsId": 10,
+        "goodsName": "Product 10",
+        "price": 1000,
+        "description": "Description 10",
+        "taxType": "INCLUSIVE",
+        "taxRate": 10.0,
+        "imageUrl": "https://www.example.com/image10.jpg"
+      }
+    ]
+  }
+]
